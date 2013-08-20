@@ -1,2 +1,9 @@
 te.py
 test1.txt
+total 24
+drwxrwxr-x  3 sijo sijo 4096 Aug 20 15:09 ./
+drwxr-xr-x 50 sijo sijo 4096 Aug 20 14:43 ../
+drwxrwxr-x  8 sijo sijo 4096 Aug 20 15:05 .git/
+-rw-rw-r--  1 sijo sijo   41 Aug 20 14:59 README.md
+-rw-rw-r--  1 sijo sijo  228 Aug  7 22:56 te.py
+-rw-rw-r--  1 sijo sijo   16 Aug 20 14:15 test1.txt
